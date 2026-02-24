@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+    <style>
+        body{text-align:center;font-family:verdana;background-color:plum;padding-top:50px;}
+        h1{font-style:italic;}
+        input,button{padding:20px;margin:20px;width:200px;}
+        button{background:palevioletred;font-size:25px;font-style:italic;font-weight:bold;}
+    </style>
+</head>
+<body>
+    <h1>Login Page</h1>
+
+    <input id="user" type="text" placeholder="Username"><br>
+    <input id="pass" type="password" placeholder="Password"><br>
+
+    <button onclick="login()">Login</button>
+
+    <script>
+        function login(){
+            alert("LOGIN SUCCESSFUL!")
+            window.location="landing.html";
+        }
+    </script>
+</body>
+</html>
