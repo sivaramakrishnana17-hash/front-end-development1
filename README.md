@@ -9,3 +9,10 @@ Preview:
 3. Personal information demo- https://sivaramakrishnana17-hash.github.io/front-end-development1/personal%20information.html
 Preview:
  <img width="1128" height="759" alt="image" src="https://github.com/user-attachments/assets/c008eafa-4f31-42f1-9ef5-f85c592cb46f" />
+ 4.Login page demo- https://sivaramakrishnana17-hash.github.io/front-end-development1/login.html
+   preview:
+   <img width="857" height="785" alt="image" src="https://github.com/user-attachments/assets/c5b9d6be-0a40-45aa-8e15-b4b382c39bd6" />
+5. website with navbar demo- https://sivaramakrishnana17-hash.github.io/front-end-development1/website%20with%20navbar.html
+   preview:
+   <img width="767" height="945" alt="image" src="https://github.com/user-attachments/assets/c6e71b62-a7d7-40ee-8e05-e4fffb759b03" />
+
