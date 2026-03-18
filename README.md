@@ -15,4 +15,7 @@ Preview:
 5. website with navbar demo- https://sivaramakrishnana17-hash.github.io/front-end-development1/website%20with%20navbar.html
    preview:
    <img width="767" height="945" alt="image" src="https://github.com/user-attachments/assets/c6e71b62-a7d7-40ee-8e05-e4fffb759b03" />
+6. New work demo- https://sivaramakrishnana17-hash.github.io/front-end-development1/new.html
+   preview:
+   <img width="648" height="450" alt="image" src="https://github.com/user-attachments/assets/0200691f-b9fd-4458-813d-d0eae8a87d10" />
 
